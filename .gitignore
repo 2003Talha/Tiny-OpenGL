@@ -1,0 +1,19 @@
+# Ignore build outputs
+bin/
+x64/
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+
+# Ignore VS cache
+.vs/
+*.VC.db
+*.VC.opendb
+*.user
+*.suo
+
+# Ignore archives
+*.zip
+*.rar
