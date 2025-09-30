@@ -1,7 +1,7 @@
 # Tiny-OpenGL
 
 A small OpenGL learning project inspired by [The Cherno's Sparky Engine tutorials](https://www.youtube.com/user/TheChernoProject).  
-This is not a production-ready engine — it’s part of my journey into learning **graphics programming** and **game engine architecture**.
+This is not a production-ready engine.It’s part of my journey into learning **graphics programming** and **game engine architecture**.
 
 ---
 
